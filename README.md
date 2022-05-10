@@ -20,7 +20,7 @@ Paris TypeScript is a group that addresses all those who wish to develop and sha
 - [Website](https://typescript.paris)
 - [Meetup](https://www.meetup.com/Paris-Typescript/)
 - [Twitter](https://twitter.com/ParisTypeScript)
-- [Slack](https://slackin.typescript-paris.now.sh/)
+- [Slack](https://join.slack.com/t/typescript-paris/shared_invite/zt-4d4kroc7-4KnJfeIshMjJh4PlZZQVRg)
 - [Linkedin](https://www.linkedin.com/company/paris-typescript/)
 - [Youtube](https://www.youtube.com/channel/UCoV7eLpMyIW1FSXwjk3nqIQ)
 - [Github](https://github.com/ParisTypeScript)
