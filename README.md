@@ -16,6 +16,13 @@ Paris TypeScript is a group that addresses all those who wish to develop and sha
 - 🇫🇷 Directives pour les orateurs
 - 🇬🇧 Speaker guidelines
 
+## Help us !
+🇫🇷
+Vous pouvez aider le groupe avec une contribution sur [Open Collective](http://contribute.typescript.paris)
+
+🇬🇧
+You can help the group with a contribution on [Open Collective](http://contribute.typescript.paris)
+
 ## Links and contacts
 - [Website](https://typescript.paris)
 - [Meetup](https://www.meetup.com/Paris-Typescript/)
