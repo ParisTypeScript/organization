@@ -9,8 +9,8 @@ Paris TypeScript is a group that addresses all those who wish to develop and sha
 
 ## Documents
 - 🇬🇧 [Code of conduct](https://github.com/ParisTypeScript/organization/blob/main/docs/CODE_OF_CONDUCT.md)
-- 🇫🇷 Accueillir Paris TypeScript
-- 🇬🇧 Hosting Paris TypeScript
+- 🇫🇷 [Accueillir Paris TypeScript](./HOST.md)
+- 🇬🇧 [Hosting Paris TypeScript](./HOST_EN.md)
 - 🇫🇷 [Soumettre un sujet](https://github.com/ParisTypeScript/talks/issues/new?template=talk.md)
 - 🇬🇧 [Submit a talk](https://github.com/ParisTypeScript/talks/issues/new?template=talk-en.md)
 - 🇫🇷 Directives pour les orateurs
