@@ -6,7 +6,7 @@ Are you interested in hosting Paris TypeScript for a meetup at your company? Her
 
 The first step is to contact the meetup organizers:
 - By email: contact@typescript.paris
-- On [Slack](https://join.slack.com/t/typescript-paris/shared_invite/zt-4d4kroc7-4KnJfeIshMjJh4PlZZQVRg) (private message to Sylvain Pontoreau or Paul Souche).
+- On [discord](https://discord.gg/bGgqdjx9) (contact admins: Sylvain Pontoreau, Lilian Saget, Terence Moussoki, Paul Souche).
 
 ## Important Information for the Smooth Running of the Event
 
