@@ -6,7 +6,7 @@ Vous souhaitez accueillir Paris TypeScript lors d'un meetup dans votre entrepris
 
 La première étape est de contacter les organisateurs du meetup :
 - Par email : contact@typescript.paris
-- Sur [slack](https://join.slack.com/t/typescript-paris/shared_invite/zt-4d4kroc7-4KnJfeIshMjJh4PlZZQVRg) (message privé à Sylvain Pontoreau ou Paul Souche).
+- Sur [discord](https://discord.gg/bGgqdjx9) (en contactant les admins : Sylvain Pontoreau, Lilian Saget, Terence Moussoki, Paul Souche).
 
 ## Informations importantes relatives au bon déroulement de l'événement
 
